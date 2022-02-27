@@ -12,7 +12,7 @@ public class RoadCollision : MonoBehaviour
         if(other.tag == "MainCamera")
         {
             Vector3 pos = this.gameObject.transform.position;
-            this.transform.position = new Vector3(pos.x, pos.y, pos.z + 197f);
+            this.transform.position = new Vector3(pos.x, pos.y, pos.z + 202.807854f);
         }
     }
 }
