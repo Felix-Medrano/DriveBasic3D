@@ -1,0 +1,4 @@
+repository "DriveBasic3D@Sck_Gaming@cloud"
+  path "/"
+    br "/main"
+    co "/main"

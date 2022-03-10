@@ -17,4 +17,8 @@ public class CarDB : ScriptableObject
         public bool seleccionado;
     }
     public carro[] carros;
+
+    public Material materialBloked;
+    public Material materialShown;
+
 }
